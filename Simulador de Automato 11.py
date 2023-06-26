@@ -56,7 +56,7 @@ def testar_palavra(automato):
     while opcao != '0':
         print(' ')
         print('SELECIONE UMA OPÇÃO:')
-        print('1. Definir entrada')        
+        print('1. Definir palavra')        
         print('0. Encerrar')
         opcao = input('')
 
